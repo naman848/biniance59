@@ -1,0 +1,2 @@
+2026-07-23 10:40:37,643 | INFO     | trading_bot | [DRY RUN] Would submit: symbol=ETHUSDT side=SELL type=LIMIT quantity=0.5 price=3200.50 stop_price=None stop_loss=None take_profit=None
+2026-07-23 10:40:37,643 | DEBUG    | trading_bot | [DRY RUN] Mock entry response: {'orderId': 237644, 'symbol': 'ETHUSDT', 'side': 'SELL', 'type': 'LIMIT', 'status': 'NEW', 'executedQty': '0', 'avgPrice': '0', 'price': '3200.50', 'stopPrice': '0'}

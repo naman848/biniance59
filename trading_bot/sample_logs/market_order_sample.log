@@ -1,0 +1,2 @@
+2026-07-23 10:40:37,380 | INFO     | trading_bot | [DRY RUN] Would submit: symbol=BTCUSDT side=BUY type=MARKET quantity=0.01 price=None stop_price=None stop_loss=None take_profit=None
+2026-07-23 10:40:37,381 | DEBUG    | trading_bot | [DRY RUN] Mock entry response: {'orderId': 237382, 'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'status': 'FILLED', 'executedQty': '0.01', 'avgPrice': '60123.40', 'price': '0', 'stopPrice': '0'}
